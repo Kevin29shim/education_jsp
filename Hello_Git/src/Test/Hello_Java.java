@@ -8,6 +8,9 @@ public class Hello_Java {
 		
 		//branch
 		System.out.println("Create Branch!! - ShimHyunbo");
+		
+		//Edit online by hyunboShim
+		System.out.println("This is Remote Storage");
 	}
 	
 
