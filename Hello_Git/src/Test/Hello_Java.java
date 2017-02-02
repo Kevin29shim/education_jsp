@@ -12,6 +12,10 @@ public class Hello_Java {
 		
 		//local storage
 		System.out.println("Third Commit Work");
+
+		//Edit online by hyunboShim
+		System.out.println("This is Remote Storage");
+
 	}
 	
 
